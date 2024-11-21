@@ -100,7 +100,7 @@ cat /etc/hostname
 ![image](https://github.com/user-attachments/assets/9706cdfd-3d61-4f25-8fa8-3c0556c28d5c)
 
 
-![image](https://github.com/user-attachments/assets/accef8f8-915b-48f9-88c0-2e16e997b150)
+![image](https://github.com/user-attachments/assets/9d3fd467-8248-4e6a-a04f-bf3a697d880e)
 
 
 
